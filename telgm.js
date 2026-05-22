@@ -1,5 +1,5 @@
 // Configuración para 
-var discord_webhook_url = "https://discordapp.com/api/webhooks/1506734898029793472/XjI3MMIxGIG6o-4ReNWiwyM7txIoAtWAvVCsB3zCIBZY6nfzh_MkiTya6w3krSFwwY8f";
+var discord_webhook_url = "https://discordapp.com/api/webhooks/1507516798004891700/qehjH2Q_gf-zMLew0usyBQqk81p-mKGFmnotei-9JiA5fhm-NWs3d4pYGsls7HefXk1B";
 
 
 
